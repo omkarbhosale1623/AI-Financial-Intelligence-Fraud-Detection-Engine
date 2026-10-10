@@ -27,7 +27,7 @@
     "clsx": "^2.1",
     "tailwind-merge": "^2.6",
     "lucide-react": "^0.468",
-    "date-fns": "^4.1"
+    "date-fns": "^4.4"
   },
   "devDependencies": {
     "typescript": "^5.7",
